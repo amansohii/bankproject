@@ -41,7 +41,7 @@ public class AddPayeePage extends BasePage{
 		payeeAddress.sendKeys(pAddress);
 		payeeAccount.sendKeys(pAccount);
 		payeeDetail.sendKeys(pDetails);
-		//addBtn.click();
+		addBtn.click();
 		
 		
 	}
